@@ -1,6 +1,8 @@
-Alunos: Kelly Sandim e Lucas Queiroz
+Desenvolvidor por Kelly Sandim e Lucas G. de Queiroz em 2014
 
-ObservaÁıes: N„o È bem tratado os tratamentos de exceÁ„o e o
+Observa√ß√µes: N√£o √© bem tratado os tratamentos de exce√ß√£o e o
 caminho de leitura dos arquivos de entrada deve ser alterado
 manualmente.
-*Todos os coment·rios importantes est„o nos cÛdigos :D
+*Todos os coment√°rios importantes est√£o nos c√≥digos :D
+
+CRUD Sistema de Delivery Completo
